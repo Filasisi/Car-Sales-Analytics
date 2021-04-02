@@ -8,11 +8,11 @@ The goal of this analysis is to prepare a end of year car sales summary to help 
 * Jupiter Notebook
 * Python 
 
-#### Libraries Used
-* pandas as pd
-* numpy as np
-* matplotlib.pyplot as plt
-* seaborn as sns
+#### Libraries Used/Required
+* pandas as pd (https://pandas.pydata.org/getting_started.html)
+* numpy as np (https://numpy.org/install/): pip install numpy or conda install numpy
+* matplotlib.pyplot as plt (https://matplotlib.org/stable/users/installing.html): python -m pip install -U pip and python -m pip install -U matplotlib
+* seaborn as sns(https://seaborn.pydata.org/installing.html)
 
 #### List of Features Used
 * Read data from an external file, such as text, JSON, CSV, etc and use that data in your application
